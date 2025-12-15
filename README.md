@@ -1,8 +1,9 @@
-### Desafio de projeto
+### Desafio de projeto: Bootcamp DIO/Caixa - IA na prática.
 - Usando a IA como Mentor de Carreira para descobrir o futuro em tecnologia.
 
 ### Método
 - Foi elaborado o prompt sugerido na aula no Copilot e obtidas as seguintes respostas.
+
 
 ### Ranking de carreiras sugeridas por IA após entrevista
 
