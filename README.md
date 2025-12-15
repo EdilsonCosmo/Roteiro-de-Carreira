@@ -1,3 +1,9 @@
+### Desafio de projeto
+- Usando a IA como Mentor de Carreira para descobrir o futuro em tecnologia.
+
+### Método
+- Foi elaborado o prompt sugerido na aula no Copilot e obtidas as seguintes respostas.
+
 ### Ranking de carreiras sugeridas por IA após entrevista
 
 
